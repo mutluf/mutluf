@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 
-My great interest in software prevents me from giving up on any difficulty I encounter. The hours I spend thinking about every difficulty I encounter motivates me to overcome other mistakes I will encounter more easily. I am sure of one thing: knowledge comes with the teachings of making a lot of mistakes. I always want to succeed and go further in this field that interests me. Even though I experience extreme mental fatigue at the end of a day spent coding, the happiness of being useful makes the tiredness sweet. That's why I am determined to continue my path with confidence, with an active, recurring effort to learn, and a renewed effort after learning. Information is a need. I am both hungry and open to learning.
-
+- :heart: I love coding
+  
 - 🔭 I’m currently working on **.NET**
 
 - 🌱 I’m currently learning **microservice architecture**
