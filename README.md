@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on **.NET**
 
 - 🌱 I’m currently learning **NextJS**
+ 
+- 😐 Stuck with the **Clean Code** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
