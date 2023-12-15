@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 
-- :heart: I love coding
   
 - 🔭 I’m currently working on **.NET**
 
