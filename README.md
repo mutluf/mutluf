@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 
   
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working on **NestJS and REACT**
 
 - 🌱 I’m currently learning **NextJS**
  
